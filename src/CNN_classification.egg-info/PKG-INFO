@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: CNN_classification
+Version: 0.0.0
+Summary: A small python package
+Home-page: https://github.com/siddhanath/CNN_classification
+Author: siddhanath
+Author-email: siddhanath@gmail.com
+Project-URL: Bug Tracker, https://github.com/siddhanath/CNN_classification/issues
+Description-Content-Type: text/markdown
+
+tensorflow
+pandas
+numpy
+matplotlib
+seaborn
+python-box==6.0.2
+pyYAML
+tqdm
+ensure==1.0.2
+joblib
+types-pyYAML
+scipy
+-e .

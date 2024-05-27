@@ -1,0 +1,5 @@
+setup.py
+siddhanath.egg-info/PKG-INFO
+siddhanath.egg-info/SOURCES.txt
+siddhanath.egg-info/dependency_links.txt
+siddhanath.egg-info/top_level.txt
